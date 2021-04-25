@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sohammukherjee1234/Tinder-JU/issues"
   },
-  "homepage": "https://github.com/sohammukherjee1234/Tinder-JU#readme"
+  "homepage": "https://github.com/sohammukherjee1234/Tinder-JU#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
 }
