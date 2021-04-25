@@ -1,0 +1,23 @@
+{
+  "name": "tinderju",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohammukherjee1234/Tinder-JU.git"
+  },
+  "keywords": [
+    "typescript",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohammukherjee1234/Tinder-JU/issues"
+  },
+  "homepage": "https://github.com/sohammukherjee1234/Tinder-JU#readme"
+}
